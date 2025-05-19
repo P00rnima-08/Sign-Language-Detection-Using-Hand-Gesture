@@ -4,6 +4,7 @@
 
 Sign language is a vital means of communication for individuals who are hearing or speech impaired. However, the lack of widespread understanding of sign language among the general population often results in communication barriers. To address this challenge, this project focuses on developing a real-time system that can detect and recognize hand gestures used in sign language and convert them into readable or audible formats. The project combines computer vision, machine learning, and deep learning to detect hand gestures captured through a camera and interpret them as corresponding characters or words. This solution can significantly enhance accessibility and foster inclusivity by enabling smoother interaction between sign language users and non-users.
 
+
 **Project Objective**
 
 The primary objective of this project is to build a system that can:
@@ -11,6 +12,7 @@ Accurately detect hand gestures using a webcam.
 Recognize and classify the gestures corresponding to sign language.
 Translate the recognized gestures into readable text or synthesized speech.
 Operate in real-time with minimal latency.
+
 
 **Project Workflow**
 
@@ -46,6 +48,7 @@ The model predicts the corresponding sign language letter or word.
 The predicted output is displayed as on-screen text.
 Optionally, the text is converted into speech using a Text-to-Speech (TTS) engine.
 The entire process operates in real-time, providing immediate feedback.
+
 
 **Technologies Used**
 
