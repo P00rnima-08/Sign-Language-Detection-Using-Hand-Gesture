@@ -50,7 +50,10 @@ The entire process operates in real-time, providing immediate feedback.
 **Technologies Used**
 
 **Languages:** Python
+
 **Libraries/Frameworks:** OpenCV, TensorFlow/Keras, MediaPipe, NumPy, matplotlib
+
 **Tools:** Jupyter Notebook / PyCharm / VS Code
+
 **Optional:** Pyttsx3 / gTTS (for text-to-speech conversion)
 
